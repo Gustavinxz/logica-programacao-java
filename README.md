@@ -28,8 +28,3 @@ O repositório contém diversos algoritmos que cobrem os seguintes tópicos:
 
 ---
 
-## 🛠️ Como executar os projetos
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
