@@ -34,8 +34,8 @@ public class consumoXautonomia {
             System.out.println("       Resultado");
             System.out.println("------------------------");
 
-            System.out.println("A autonomia máxima do seu carro: " + autmax);
-            System.out.println("A autonomia atual: " + autatual);
+            System.out.println("A autonomia máxima do seu carro: " +autmax+" Km");
+            System.out.println("A autonomia atual: "+autatual+" Km");
             System.out.println(aviso);
 
         System.out.println("Deseja fazer outro consumo? 1 - Sim / 2 - Não");
