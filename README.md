@@ -1,4 +1,4 @@
-# ☕ Programação Java - Jornada de Estudos e Lógica
+# ☕ Programação Java - Jornada de Estudos 
 
 Este repositório é dedicado ao registro da minha jornada de aprendizado na linguagem **Java**. Aqui eu armazeno exercícios práticos, desafios de lógica e pequenos sistemas desenvolvidos durante meus estudos. 
 
